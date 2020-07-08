@@ -1,0 +1,1 @@
+document.querySelector('h1').innerHTML = "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Hola Mundo"
